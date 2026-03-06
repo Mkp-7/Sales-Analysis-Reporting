@@ -16,7 +16,7 @@ This repository contains a **Power BI dashboard** designed to analyze and visual
 
 ## Files in this Repository
 - `Sales_Analysis_Dashboard.pbix`: Power BI dashboard file  
-- `Dashboard pdf`: PDF exports of dashboards for quick viewing  
+- `Dashboard Images`: Screenshots of dashboards for quick viewing  
 - `README.md`: Project documentation  
  
 
@@ -26,7 +26,4 @@ To view and interact with the dashboard locally:
 2. Open it using **Power BI Desktop** (free version).  
 
 ## Author
-Mukund Patel  
-
-## License
-This project is licensed under the MIT License.
+Mukund Patel
